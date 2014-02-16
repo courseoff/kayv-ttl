@@ -1,0 +1,27 @@
+{
+  "name": "kayv-ttl",
+  "version": "0.0.0",
+  "description": "ttl layer for kayv storage",
+  "main": "./index.js",
+  "scripts": {
+    "test": "zuul -- test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/courseoff/kayv-ttl.git"
+  },
+  "keywords": [
+    "localstorage",
+    "offline"
+  ],
+  "devDependencies": {
+    "kayv": "~1.0.0",
+    "zuul": "~1.5.4"
+  },
+  "author": "Roman Shtylman <shtylman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/courseoff/kayv-ttl/issues"
+  },
+  "homepage": "https://github.com/courseoff/kayv-ttl"
+}
