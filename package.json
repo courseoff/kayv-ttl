@@ -1,6 +1,6 @@
 {
   "name": "kayv-ttl",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "ttl layer for kayv storage",
   "main": "./index.js",
   "scripts": {
